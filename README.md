@@ -1,4 +1,4 @@
-# Enhancing Federated Representation via Multi-Head Mutual-Distillation
+# Enhancing Federated Representation Learning via Self-Knowledge Distillation
 
 
 
